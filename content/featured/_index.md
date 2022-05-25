@@ -4,10 +4,10 @@ url: "/featured/"
 type: featured
 layout: list
 articles:
-- articles/stop-shaming-adele.md
-- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
-- articles/art-is-not-action.md
-- articles/when-opera-companies-protect-abusers.md
-- articles/vibrato-all-the-reasons-why.md
+- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
+- articles/la-nilsson-celebrating-birgit-nilsson-at-100.md
+- articles/coc1920.md
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/a-perfect-fit-the-overcoat.md
 
 ---
