@@ -1,7 +1,6 @@
 ---
 label: Author
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -37,3 +36,15 @@ fields:
   label: Social Media
   template_types:
   - social-media
+pages:
+- content/authors/alexandra-delle-donne.md
+- content/authors/jane-richardson.md
+- content/authors/joshua-chong.md
+- content/authors/kathryn-nickford.md
+- content/authors/kay-cartwright.md
+- content/authors/leah-borts-kuperman.md
+- content/authors/leslie-ashworth.md
+- content/authors/marcia-whitehead.md
+- content/authors/mark-wilkinson.md
+- content/authors/matthew-hilton.md
+- content/authors/sam-darling.md

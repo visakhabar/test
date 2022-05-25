@@ -27,8 +27,8 @@ recent articles
       {{- /* share */ -}}
       <nav class="nav--share">
         <h3>Share this page</h3>
-        <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" class="social--facebook pill" title="Share on Facebook" target=_blank><i class="icon-facebook"></i> Share <em class="social--count_facebook" data-url="{{ .Permalink }}"></em></a>
-        <a href="https://twitter.com/share?url={{ .Permalink }}&via=schmopera&text={{ .Title | safeURL }}" class="social--twitter pill" title="Share on Twitter" target=_blank><i class="icon-twitter"></i> Tweet <em class="social--count_twitter" data-url="{{ .Permalink }}"></em></a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.schmopera.com%2f&" class="social--facebook pill" title="Share on Facebook" target=_blank><i class="icon-facebook"></i> Share <em class="social--count_facebook" data-url="{{ .Permalink }}"></em></a>
+        <a href="https://twitter.com/share?url=https%3a%2f%2fwww.schmopera.com%2f&via=schmopera&text=Schmopera.com" class="social--twitter pill" title="Share on Twitter" target=_blank><i class="icon-twitter"></i> Tweet <em class="social--count_twitter" data-url="{{ .Permalink }}"></em></a>
       </nav>
 
       {{- /* site map */ -}}
@@ -53,11 +53,13 @@ recent articles
           <li><a href="/scene/people">People</a></li>
         </ul>
 
+        {{/*
         <h3>The Store</h3>
         <ul>
           <li><a href="https://www.facebook.com/schmopera/shop/?cid=1703249406614480">Hoodies</a></li>
           <li><a href="https://www.facebook.com/schmopera/shop/?cid=1703249419947812">T-Shirts</a></li>
         </ul>
+        */}}
 
         <h3>Get Involved</h3>
         <ul>

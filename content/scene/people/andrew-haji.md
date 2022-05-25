@@ -4,7 +4,7 @@ discipline = "Tenor"
 lastmod = "2016-05-11T10:03:00+01:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428369928078/AndrewHaji.jpg.jpg"
 publishDate = "2015-04-07T02:28:00+01:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
+related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/salzburg-festival.md", "scene/companies/calgary-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/edmonton-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
 slug = "andrew-haji"
 title = "Andrew Haji"
 website = "http://www.andrewhaji.com/"
@@ -12,14 +12,30 @@ website = "http://www.andrewhaji.com/"
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/andrewhaji"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/andrewhaji"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/andrewhaji"
+[[social_media]]
+platform = "Linkedin"
+template = "social-media"
+url = "https://www.linkedin.com/in/andrewhaji/"
+
 +++
+Canadian tenor Andrew Haji is quickly becoming one of the most sought-after voices on both the operatic and concert stages. Winner of the Grand Prix at the 50th International Vocal Competition in ‘s-Hertogenbosch and the Montreal International Music Competition’s Oratorio Prize, Haji recently performed Bach’s _Matthäus-Passion_ with Pinnock and the National Arts Centre Orchestra and _Messiah_ for the Toronto Symphony – Debus conducting.
 
-Andrew Haji, Canadian tenor, is quickly becoming one of the most sought-after voices on both the operatic and concert stages. A graduate of the Canadian Opera Company Ensemble Studio, Andrew’s recent appearances with the COC include Alfredo in Verdi’s *La traviata* (October 2015), Count Almaviva in the Ensemble Studio performance of Rossini’s *The Barber of Seville* (May 2015), Rodriguez in Massenet’s *Don Quichotte* (May 2014), and Ferrando in the Ensemble Studio performance of Mozart’s *Così fan tutte* (February 2014).
+An exciting season in 2020-2021 is in the plans and includes Alfredo in _La traviata_ for Calgary Opera, _Elijah_ for Symphony Nova Scotia, Rodolfo in _La bohème_ for Edmonton Opera and a recital for the Jeffery Concert Series of London, Ontario. These projects will be subject to health advisories caused by the global pandemic.
 
-Andrew graduated from the University of Toronto Faculty of Music in 2013 with a Master of Music in Opera degree, and in 2011 with a Bachelor of Music in Performance degree. His University of Toronto opera credits include Nemorino in Donizetti’s *L’elisir d’amore*, Rob Ford in *Rob Ford, the Opera*, Ferrando in Mozart’s *Così fan tutte*, Lacouf/Reporter from Paris in Poulenc’s *Les mamelles de Tirésias*, Don Ottavio in Mozart’s *Don Giovanni*, Vanderdendur/Ragotski in Bernstein’s *Candide*, and Cecco in Haydn’s *Il mondo della luna*.
+Haji’s 2019-20 season began with Alfredo in _La traviata_ for Vancouver Opera, followed by _Messiah_ for the Edmonton Symphony, Pollione in _Norma_ for Calgary Opera, Rossini’s _Stabat Mater_ with the Kitchener-Waterloo Symphony and Beethoven’s _Symphony No. 9_ for the Victoria Symphony. Appearances during the 2018-2019 season included Rodolfo in _La bohème_ and Cassio in _Otello_ for the Canadian Opera Company (COC), Bach’s _Mass in B minor_ for the Amadeus Choir and Alfredo in _Die Fledermaus_ for Saskatoon Opera.
 
-Andrew performed the role of Count Almaviva with the Salzburg Festival Young Singers Project in July and August, 2015. In the summer of 2014, Andrew performed the role of Rodolfo in Puccini’s *La bohème* at the Centre for Opera Studies in Italy. He had previously attended COSI, performing the roles of Don Ottavio in Mozart’s *Don Giovanni* in 2011 and Nemorino in Donizetti’s *L’elisir d’amore* in 2010. He has also recently performed the role of Tamino in Mozart’s *Die Zauberflöte* both at the Music Academy of the West in 2013 and at the Accademia Europea dell’Opera in 2012.
+In 2017-2018, the Festspiele Mecklenburg-Vorpommern winner was heard as Nemorino in _L’elisir d’amore_ in Toronto for the COC and for Vancouver Opera, Beethoven’s _Symphony No. 9_ for the Toronto Symphony, _Messiah_ for the Grand Philharmonic Choir of Kitchener-Waterloo and the opening night gala at the Elora Festival. Haji is an alumnus of the COC Ensemble Studio and has also been heard at the Four Seasons Centre as Alfredo in _La traviata_ and Tamino in _Die Zauberflöte_. During his time as a member of the Ensemble Studio, his leading roles included Almaviva in _Il barbiere di Siviglia_ and Ferrando in _Così fan tutte_.
 
-In September 2014, Andrew was the recipient of the Grand Prix, the Press Prize, and the Junior Jury Prize at the 50th International Vocal Competition in ‘s-Hertogenbosch, the Netherlands. In July 2013, Andrew received an Encouragement Award in the Marilyn Horne Song Competition held at the Music Academy of the West in Santa Barbara, California. In November 2012, he was selected as the second prize winner of the Canadian Opera Company’s second annual Ensemble Studio Competition.
+The Salzburg Festival featured Haji in its production of Donizetti’s _Lucrezia Borgia_, his festival debut. For the Wexford Festival he starred as Hélios in Félicien David’s _Herculanum_ and for Opera Theatre of Saint Louis, as Rodolfo in Puccini’s _La bohème_.
 
-Andrew’s recent oratorio engagements include performances of Handel’s *Messiah*, Haydn’s *The Creation*, Puccini’s *Messa di Gloria*, Rossini’s *Petite messe solennelle*, Mozart’s *Great Mass in C minor* and *Coronation Mass*, and Bach’s *St Matthew Passion*.
+Selected recent and upcoming concert engagements include performances of Haydn’s _The Creation_, Verdi’s _Requiem_, Puccini’s _Messa di Gloria_, Orff’s _Carmina Burana_, Rossini’s _Petite messe solennelle_, and Mozart’s _Requiem_, _Great Mass in C minor_, and _Coronation Mass_.
+
+Andrew Haji holds both a Bachelor’s and a Master’s degree from the University of Toronto’s Faculty of Music where he performed in productions of _Les mamelles de Tirésias_, _Don Giovanni_, _Candide_, _Il mondo della luna_ and _Rob Ford: The Opera_, among others. He was invited to participate in young artist programmes at the Salzburg Festival Young Singers Project, the Centre for Opera Studies in Italy, the Music Academy of the West and Accademia Europea dell’Opera where he was influenced by some of the world’s finest musicians. A native-born Ontarian, he has received awards from the Marilyn Horne Song Competition in Santa Barbara and the COC’s annual Ensemble Studio Competition.
