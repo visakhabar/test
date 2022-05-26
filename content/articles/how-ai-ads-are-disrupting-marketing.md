@@ -3,7 +3,6 @@ author = ["authors/drej.md"]
 categories = "Review"
 date = 2022-05-26T07:15:00Z
 disclaimer = ""
-draft = true
 image_gallery = []
 postamble = "[**Artificial intelligence**](https://www.entrepreneur.com/article/339837) is the new frontier of [**marketing**](https://www.entrepreneur.com/topic/marketing). Marketing with AI has been proven to be a successful strategy for many businesses. It's is a new way to reach customers and is much more personalized, targeted and engaging than traditional methods. AI marketing can be used for [**customer service**](https://www.entrepreneur.com/topic/customer-service), [**sales**](https://www.entrepreneur.com/topic/sales) and marketing, [**lead generation**](https://www.entrepreneur.com/topic/lead-generation) and more."
 preamble = "_Opinions expressed by Entrepreneur contributors are their own._"
