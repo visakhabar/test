@@ -1,7 +1,7 @@
 +++
 author = ["authors/alessia-naccarato.md"]
 categories = "Review"
-date = "2019-05-22T04:00:00+00:00"
+date = 2019-05-25T04:00:00Z
 disclaimer = ""
 image_gallery = []
 postamble = "[_Dido_](https://www.eno.org/whats-on/dido/) runs at the Unicorn Theatre through 2 June."
